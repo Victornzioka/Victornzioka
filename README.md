@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victornzioka
-- 👀 I’m interested in Python and django
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any Python django projects
+- 👀 I’m interested in Python, django and Data Science.
+- 🌱 I’m currently learning Javascript and Natural Language Processing with Python
+- 💞️ I’m looking to collaborate on any Python django projects and Data Science projects
 - 📫 How to reach me ...email me at victormuia8@gmail.com
 
 <!---
